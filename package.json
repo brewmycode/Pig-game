@@ -1,0 +1,15 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "sam",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "parcel index.html assets -p 3000"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {}
+}
